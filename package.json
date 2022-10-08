@@ -1,0 +1,18 @@
+{
+  "name": "sss72-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เลขโต้ดได้กี่บาท✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เลขโต้ดได้กี่บาท",
+"เล่นหวยหุ้นออนไลน์",
+"เข้าสู่ระบบ lottovip",
+"แทงหวยออนไลน์",
+"หวยsod"
+],
+  "repository": "https://github.com/setteebet/sss72-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
